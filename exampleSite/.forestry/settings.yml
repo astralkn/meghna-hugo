@@ -16,7 +16,7 @@ sections:
   - post
 - type: directory
   path: exampleSite/content/romanian/blog
-  label: Post (fr)
+  label: Post (ro)
   create: documents
   match: "**/*"
   templates:
@@ -32,7 +32,7 @@ sections:
   - author
 - type: directory
   path: exampleSite/content/romanian/author
-  label: Author (fr)
+  label: Author (ro)
   create: documents
   match: "**/*"
   templates:
