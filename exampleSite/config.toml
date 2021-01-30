@@ -12,22 +12,22 @@ copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = 2
 [[Languages.en.menu.main]]
 name = "about"
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.en.menu.main]]
-name = "services"
-pre = "#"
-url = "services"
-weight = 3
-[[Languages.en.menu.main]]
 name = "portfolio"
 pre = "#"
 url = "portfolio"
 weight = 2
+[[Languages.en.menu.main]]
+name = "services"
+pre = "#"
+url = "services"
+weight = 3
 [[Languages.en.menu.main]]
 name = "team"
 pre = "#"
@@ -43,53 +43,43 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 6
-[Languages.fr]
-contentDir = "content/french"
+[Languages.ro]
+contentDir = "content/romanian"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+home = "Acasa"
+languageCode = "ro-ro"
+languageName = "Ro"
+weight = 1
 [[Languages.fr.menu.main]]
-name = "sur"
+name = "Despre noi"
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.fr.menu.main]]
-name = "un service"
-pre = "#"
-url = "services"
-weight = 2
-[[Languages.fr.menu.main]]
-name = "portefeuille"
+name = "Portofoliu"
 pre = "#"
 url = "portfolio"
+weight = 2
+[[Languages.fr.menu.main]]
+name = "Servicii"
+pre = "#"
+url = "services"
 weight = 3
 [[Languages.fr.menu.main]]
-name = "équipe"
+name = "Echipa"
 pre = "#"
 url = "team"
 weight = 4
 [[Languages.fr.menu.main]]
-name = "tarification"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.fr.menu.main]]
-name = "blog"
+name = "Blog"
 pre = "#"
 url = "blog"
-weight = 6
+weight = 5
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "Contact"
 pre = "#"
 url = "contact"
-weight = 7
-[[Languages.fr.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
+weight = 6
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
