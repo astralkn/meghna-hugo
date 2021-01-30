@@ -1,4 +1,4 @@
-baseURL = "https://sccladiri.netlify.com"
+baseURL = "http://sccladiri.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
