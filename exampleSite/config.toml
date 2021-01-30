@@ -50,32 +50,32 @@ home = "Acasa"
 languageCode = "ro-ro"
 languageName = "Ro"
 weight = 1
-[[Languages.fr.menu.main]]
+[[Languages.ro.menu.main]]
 name = "Despre noi"
 pre = "#"
 url = "about"
 weight = 1
-[[Languages.fr.menu.main]]
+[[Languages.ro.menu.main]]
 name = "Portofoliu"
 pre = "#"
 url = "portfolio"
 weight = 2
-[[Languages.fr.menu.main]]
+[[Languages.ro.menu.main]]
 name = "Servicii"
 pre = "#"
 url = "services"
 weight = 3
-[[Languages.fr.menu.main]]
+[[Languages.ro.menu.main]]
 name = "Echipa"
 pre = "#"
 url = "team"
 weight = 4
-[[Languages.fr.menu.main]]
+[[Languages.ro.menu.main]]
 name = "Blog"
 pre = "#"
 url = "blog"
 weight = 5
-[[Languages.fr.menu.main]]
+[[Languages.ro.menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
