@@ -4,7 +4,7 @@ image: ''
 email: arhitectmarianlazar@gmail.com
 social:
 - icon: ti-instagram
-  link: ''
+  link: "#"
 - icon: ti-facebook
   link: "#"
 
