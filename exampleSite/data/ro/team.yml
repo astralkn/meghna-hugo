@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Echipa
   team_member:
     - name: arh. Marian L
       image_webp: images/team/marian-l.webp
