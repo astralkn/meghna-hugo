@@ -4,33 +4,73 @@ portfolio:
   title : Proiectele noastre
   portfolio_item :
     # portfolio item loop
-    - name : Tag Design
+    - name : Opera din Cluj
       image : images/portfolio/p-1.jpg
       image_webp : images/portfolio/p-1.webp
-      categories : ["design"]
+      categories : ["scanare"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "https://themefisher.com"
 
     # portfolio item loop
-    - name : Sound system
+    - name : Releveu
       image : images/portfolio/p-2.jpg
       image_webp : images/portfolio/p-2.webp
-      categories : ["development"]
+      categories : ["arhitectura","releveu"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
 
     # portfolio item loop
-    - name : Clock Product
+    - name : Cladire
       image : images/portfolio/p-3.jpg
       image_webp : images/portfolio/p-3.webp
-      categories : ["design", "development"]
+      categories : ["scanare"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : ""
 
     # portfolio item loop
-    - name : Bottol Label
+    - name : Randare
       image : images/portfolio/p-4.jpg
       image_webp : images/portfolio/p-4.webp
-      categories : ["photography", "development"]
+      categories : ["releveu", "randare"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : ""
+
+    # portfolio item loop
+    - name : Randare
+      image : images/portfolio/p-5.jpg
+      image_webp : images/portfolio/p-5.webp
+      categories : ["arhitectura","randare"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+
+    # portfolio item loop
+    - name : Randare
+      image : images/portfolio/p-6.jpg
+      image_webp : images/portfolio/p-6.webp
+      categories : ["arhitectura","randare"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+
+    # portfolio item loop
+    - name : Randare
+      image : images/portfolio/p-7.jpg
+      image_webp : images/portfolio/p-7.webp
+      categories : ["arhitectura","randare"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+
+    # portfolio item loop
+    - name : Randare
+      image : images/portfolio/p-8.jpg
+      image_webp : images/portfolio/p-8.webp
+      categories : ["arhitectura","randare"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+
+      # portfolio item loop
+    - name : Randare
+      image : images/portfolio/p-9.jpg
+      image_webp : images/portfolio/p-9.webp
+      categories : ["arhitectura","randare"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""

@@ -2,25 +2,22 @@
 skill:
   enable : true
   title : Competente
-  subtitle : We’ve skilled in wide range of web and Other digital market tools.
+  subtitle : We’ve skilled in wide range of architectural design.
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
-      percent : 90%
+    - name :  Proiectare
+      percent : 100%
       
     # skill item loop
-    - name :  Analysis
+    - name :  Randare
       percent : 70%
+
+    # skill item loop
+    - name :  Scanare
+      percent : 100%
       
     # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
-    # skill item loop
-    - name :  Android Development
+    - name :  Urbanism
       percent : 75%

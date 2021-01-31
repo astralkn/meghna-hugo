@@ -124,16 +124,16 @@ enable = false
 preloader = "images/logo-2.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/Scan%C4%83ri-Cl%C4%83diri-3D-Building-Laser-Scanning-615829785223361/?eid=ARBer6rLCzjy6Kr9qodmnWEL9ZLnQ-EfsfavbRR9_coNwNAfEai1IaceD0UgBYOuRaSMhRciEKUO7MD0"
 [[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "https://www.youtube.com/channel/UCB8B_1Vc4PsDycCtEDF_tzw"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
 [[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/scanaricladiri/"
 [[params.social]]
 icon = "ti-pinterest"
 link = "#"
