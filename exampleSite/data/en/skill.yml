@@ -3,20 +3,36 @@ skill:
   enable : true
   title : Our Skills
   subtitle : We’ve skilled in wide range of architectural design.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  content :
+  image : images/about/building-skill.webp
   skill_item :
     # skill item loop
-    - name :  Design
+    - name :  " Building Design"
       percent : 100%
 
     # skill item loop
-    - name :  Render
-      percent : 70%
+    - name :  " Concept Development"
+      percent : 100%
 
-    - name :  Scanning
+    - name :  " Building Scanning"
       percent : 100%
 
     # skill item loop
-    - name :  Urban planning
+    - name :  " Building Surveying"
+      percent : 90%
+
+    # skill item loop
+    - name :  " Interior Design"
+      percent : 85%
+
+    # skill item loop
+    - name : " Rendering"
+      percent : 85%
+
+    # skill item loop
+    - name : " 3D Building Modeling"
+      percent : 80%
+
+    # skill item loop
+    - name :  " Urban planning"
       percent : 75%

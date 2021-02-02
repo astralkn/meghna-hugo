@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Scanari Cladiri"
 [Languages.en]
 contentDir = "content/english"
-copyright = ""
+copyright = "S.C. Arhitect Marian Lazar S.R.L"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -87,13 +87,13 @@ google_analytics_id = ""
 logo = "images/logo-2.png"
 post_share = true
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCxnbbn2bgB5S_6WezcGIOHz5rJ8iurw9E"
+map_latitude = "45.7558986"
+map_longitude = "27.472789"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -120,7 +120,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo-2.png"
 [[params.social]]
 icon = "ti-facebook"

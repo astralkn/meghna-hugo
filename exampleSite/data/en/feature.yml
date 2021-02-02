@@ -7,21 +7,21 @@ feature:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : Architecture
-      icon : ti-ruler-alt-2 # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Urban Planning
-      icon : ti-layout-grid4-alt # themify icon pack : https://themify.me/themify-icons
+    - title : Reliable
+      icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
-      # feature item loop
-    - title : Scanning
-      icon : ti-widget # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    # feature item loop
+    - title: Diligent
+      icon: ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
 
       # feature item loop
-    - title : Fotogrametry
-      icon : ti-camera # themify icon pack : https://themify.me/themify-icons
+    - title: Accurate
+      icon: ti-angle-right # themify icon pack : https://themify.me/themify-icons
+      content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+      # feature item loop
+    - title : Responsible
+      icon : ti-angle-right # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

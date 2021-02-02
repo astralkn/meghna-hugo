@@ -3,21 +3,36 @@ skill:
   enable : true
   title : Competente
   subtitle : We’ve skilled in wide range of architectural design.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  content :
+  image : images/about/building-skill.webp
   skill_item :
     # skill item loop
-    - name :  Proiectare
+    - name :  " Proiectare"
       percent : 100%
-      
-    # skill item loop
-    - name :  Randare
-      percent : 70%
 
     # skill item loop
-    - name :  Scanare
+    - name :  " Dezvoltarea concept"
       percent : 100%
-      
+
+    - name :  " Scanare cladiri"
+      percent : 100%
+
     # skill item loop
-    - name :  Urbanism
+    - name :  " Releveu"
+      percent : 90%
+
+    # skill item loop
+    - name :  " Design Interior"
+      percent : 85%
+
+    # skill item loop
+    - name : " Randare"
+      percent : 85%
+
+    # skill item loop
+    - name : " Modelare 3D Cladiri"
+      percent : 80%
+
+    # skill item loop
+    - name :  " Urbanism"
       percent : 75%

@@ -4,31 +4,31 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Lorem Ipsum
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+    - name : Architectural Design
+      icon : ti-home # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Lorem Ipsum
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    - name : Building Scanning
+      icon : ti-widget # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Lorem Ipsum
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+    - name : Fotogrametry
+      icon : ti-camera # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Lorem Ipsum
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+    - name : Urban Planning
+      icon : ti-layout-grid4-alt # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Lorem Ipsum
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+    - name : Building Restoration
+      icon : ti-vector # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     # service item loop
-    - name : Lorem Ipsum
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+    - name : Rendering
+      icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.

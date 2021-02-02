@@ -4,31 +4,31 @@ service:
   title : Servicii
   service_item:
     # service item loop
-    - name: Lorem Ipsum
-      icon: ti-world # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Proiectare
+      icon : ti-home # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name: Lorem Ipsum
-      icon: ti-layout # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Scanare cladiri
+      icon : ti-widget # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name: Lorem Ipsum
-      icon: ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Fotogrametrie
+      icon : ti-camera # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name: Lorem Ipsum
-      icon: ti-palette # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Urbanism
+      icon : ti-layout-grid4-alt # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name: Lorem Ipsum
-      icon: ti-package # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Restaurare
+      icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name: Lorem Ipsum
-      icon: ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Randare
+      icon : ti-gallery # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
